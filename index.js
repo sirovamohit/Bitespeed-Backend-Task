@@ -16,5 +16,5 @@ app.listen(8080,hostname, function(err) {
     }
 });
 
-app.use('/', require('./routes/contact'));
+app.use('/identify', require('./routes/contact'));
 module.exports = app;
