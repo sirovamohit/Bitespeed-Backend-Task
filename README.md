@@ -1,5 +1,5 @@
 # Bitespeed-Backend-Task
-Server URL : https://alive-slug-turtleneck-shirt.cyclic.app/identify
+Server URL : https://jade-vast-swallow.cyclic.app/identify
 post_data(json) :
 {
     "phoneNumber":"787809",
