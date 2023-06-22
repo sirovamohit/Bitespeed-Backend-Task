@@ -1,8 +1,8 @@
 const config = {
     User: {
-        user: "sql12624207",
-        password: "ZVdTZT3CyY",
-        database: "sql12624207",
+        user: "sql12627931",
+        password: "DvjJumWhQs",
+        database: "sql12627931",
         host: "sql12.freesqldatabase.com",
     }
 };
