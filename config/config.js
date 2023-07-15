@@ -1,9 +1,9 @@
 const config = {
     User: {
-        user: "sql6630290",
-        password: "2UBInBk3hk",
-        database: "sql6630290",
-        host: "sql6.freemysqlhosting.net",
+        user: "sql6632952",
+        password: "X9MZh8braX",
+        database: "sql6632952",
+        host: "sql6.freesqldatabase.com",
     }
 };
 module.exports = config;
